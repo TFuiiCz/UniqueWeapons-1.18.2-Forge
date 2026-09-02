@@ -1,0 +1,7 @@
+{
+    "parent":"item/generated",
+    "textures":
+    {
+        "layer0":"uniqueweapons:item/deception_book"
+    }
+}

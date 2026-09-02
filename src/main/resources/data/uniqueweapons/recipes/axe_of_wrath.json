@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  U",
+    "NSN",
+    "NN "
+  ],
+  "key": {
+    "U": {
+      "item": "minecraft:nether_star"
+    },
+    "S": {
+      "item": "minecraft:diamond_axe"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "uniqueweapons:axe_of_wrath",
+    "count": 1
+  }
+}

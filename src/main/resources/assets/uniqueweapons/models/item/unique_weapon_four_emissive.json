@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "uniqueweapons:item/demons_blood_blade_e"
+  }
+}

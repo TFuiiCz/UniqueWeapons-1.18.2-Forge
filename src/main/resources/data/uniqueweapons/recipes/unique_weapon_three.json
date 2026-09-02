@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " U ",
+    "NSN",
+    " N "
+  ],
+  "key": {
+    "U": {
+      "item": "minecraft:nether_star"
+    },
+    "S": {
+      "item": "minecraft:trident"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "E":{
+      "item": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:channeling\",lvl:1}]}"
+    }
+  },
+  "result": {
+    "item": "uniqueweapons:unique_weapone_three",
+    "count": 1
+  }
+}

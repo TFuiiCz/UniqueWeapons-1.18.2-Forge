@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/trident",
+  "textures": {
+    "layer0": "uniqueweapons:item/crimson_lance"
+  }
+}

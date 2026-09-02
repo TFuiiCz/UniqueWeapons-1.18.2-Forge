@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[40,)" 
+license="All Rights Reserved"
+
+[[mods]]
+modId="uniqueweapons"
+version="1.0.0"
+displayName="Unique Weapons"
+authors="TwistedFantasy"
+description="""Prikol."""
+
+[[dependencies.uniqueweapons]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.uniqueweapons]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"
